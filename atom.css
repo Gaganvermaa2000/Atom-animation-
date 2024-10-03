@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: black;
+}
+canvas {
+    background-color: black;
+}
+#atom-selector {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    font-size: 18px;
+    color: black;
+}
+option{
+    color: black;
+    background-color: burlywood;
+    
+}
+
+select, label {
+    color: white;
+}
